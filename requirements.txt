@@ -6,3 +6,4 @@ pandas>=1.3.3
 jsonschema>=0.10.0
 tensorflow>=2.8.0
 numpy>=1.21.2
+protobuf == 3.20
